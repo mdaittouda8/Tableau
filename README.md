@@ -3,3 +3,4 @@
 
 ![Dashboard](Dashboard.png)
 ![Dashboard](churn_customer.PNG)
+![Dashboard](SalesBF.PNG) ![Dashboard](SalesBF2.PNG)
