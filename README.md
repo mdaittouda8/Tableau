@@ -4,13 +4,13 @@
 1st Dashboard:
 ![Dashboard](Telecom.png)
 
-1st Dashboard:
+2nd Dashboard:
 ![Dashboard](Dashboard.png)
 
-2nd Dashboard:
+3rd Dashboard:
 ![Dashboard](churn_customer.PNG)
 
-3rd Dashboard:
+4th Dashboard:
 ![Dashboard](SalesBF.png) 
 
 4th Dashboard:
